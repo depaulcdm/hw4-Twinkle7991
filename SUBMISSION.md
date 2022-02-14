@@ -1,5 +1,5 @@
 # Instructions
-**TODO:** Replace this line with your name and student ID.
+Name:Twinkle Patel Student Id:1546019.
 
 **TODO:** Add your screen captures to a new directory called [images](images).
 
