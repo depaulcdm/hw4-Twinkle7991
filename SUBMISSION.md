@@ -39,19 +39,19 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [10 pts] A screen capture showing a successful build using the Maven script.
 
 
-   ![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-1.JPG,mvnbuild-2.JPG,mvnbuild-3JPG)
+   	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-1.JPG)
 
-	(images/mvnbuild-2.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-2.JPG)
 
-	(images/mvnbuild-3.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-3.JPG)
 
-	(images/mvnbuild-4.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-4.JPG)
 
-	(images/mvnbuild-5.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-5.JPG)
 
-	(images/mvnbuild-6.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-6.JPG)
 	
-	(images/mvnbuild-7.JPG)
+	![Screen Capture of showing a successful build using the Maven script #2](images/mvnbuild-7.JPG)
 
 
 
